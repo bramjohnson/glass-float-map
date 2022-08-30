@@ -80,65 +80,37 @@ function initMap() {
     gestureHandling: "greedy",
   });
 
-  // fetch("/database", {
-  //   method: "GET",
-  // })
-  //   .then((response) => response.json())
-  //   .then((data) => {
-  //     data.forEach((float) => {
-  //       lat_lng = separateMarkerLocations(float)
-  //       let marker = new google.maps.Marker({
-  //         position: { lat: lat_lng[0], lng: lat_lng[1] },
-  //         map: map,
-  //       });
+  fetch("/db/floats.json", {
+    method: "GET",
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      data.forEach((float) => {
+        lat_lng = separateMarkerLocations(float)
+        let marker = new google.maps.Marker({
+          position: { lat: lat_lng[0], lng: lat_lng[1] },
+          map: map,
+        });
 
-  //       marker.addListener("click", () => {
-  //         map.setZoom(16);
-  //         map.setCenter(marker.getPosition());
-  //         new google.maps.InfoWindow({
-  //           content: createContentString(float),
-  //         }).open({
-  //           anchor: marker,
-  //           map,
-  //           shouldFocus: false,
-  //         });
-  //       });
+        marker.addListener("click", () => {
+          map.setZoom(16);
+          map.setCenter(marker.getPosition());
+          new google.maps.InfoWindow({
+            content: createContentString(float),
+          }).open({
+            anchor: marker,
+            map,
+            shouldFocus: false,
+          });
+        });
 
-  //       float.marker = marker;
-  //       floats.push(float);
-  //     });
-  //     filteredMarkers(floats);
-  //     populateLocationSelections(floats);
-  //     populateAreaSelections(floats);
-  //   });
-
-  data = JSON.parse(fs.readFileSync('./db/floats.json'))
-  data.forEach((float) => {
-    lat_lng = separateMarkerLocations(float)
-    let marker = new google.maps.Marker({
-      position: { lat: lat_lng[0], lng: lat_lng[1] },
-      map: map,
-    });
-
-    marker.addListener("click", () => {
-      map.setZoom(16);
-      map.setCenter(marker.getPosition());
-      new google.maps.InfoWindow({
-        content: createContentString(float),
-      }).open({
-        anchor: marker,
-        map,
-        shouldFocus: false,
+        float.marker = marker;
+        floats.push(float);
       });
+      filteredMarkers(floats);
+      populateLocationSelections(floats);
+      populateAreaSelections(floats);
     });
-
-    float.marker = marker;
-    floats.push(float);
-  });
-  
-  filteredMarkers(floats);
-  populateLocationSelections(floats);
-  populateAreaSelections(floats);
 }
 
 function createContentString(float) {
