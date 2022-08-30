@@ -20,12 +20,17 @@ Start date: 7/25/22
 
 Basic features (map, filters, database): 8/3/22
 
-MVP (Minimum Viable Product): TBD
+MVP (Minimum Viable Product): 8/30/22
 
-End date: TBD
+End date (GitHub Pages Published): 8/30/22
 
 
-I haved worked on this project 3 days/week and 4 hours/day for the past two weeks.
+I worked on this project:
+
+3 days/week and 4 hours/day between 7/25/22 - 8/3/22
+
+2 hours/day between 8/28/22 - 8/30/22
+
 
 # Website
 [Glass Float Project Map](https://bramjohnson.github.io/glass-float-map/static/index.html)
