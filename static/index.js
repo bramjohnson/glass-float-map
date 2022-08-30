@@ -80,7 +80,7 @@ function initMap() {
     gestureHandling: "greedy",
   });
 
-  fetch("/db/floats.json", {
+  fetch("/glass-float-map/db/floats.json", {
     method: "GET",
   })
     .then((response) => response.json())
