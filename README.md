@@ -26,3 +26,6 @@ End date: TBD
 
 
 I haved worked on this project 3 days/week and 4 hours/day for the past two weeks.
+
+# Website
+[Glass Float Project Map](https://bramjohnson.github.io/glass-float-map/static/index.html)
