@@ -1,0 +1,8212 @@
+[
+  {
+    "num": 101,
+    "author": "K. C",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.2005842785942,
+    "lng": -71.574759572655,
+    "description": "on beach",
+    "year": 2022
+  },
+  {
+    "num": 106,
+    "author": "J. Vaillancourt",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 107,
+    "author": "R. Gunzel",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 108,
+    "author": "K. Tanguay",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 110,
+    "author": "M. Sandoval",
+    "area": "Corn Neck",
+    "location": "Cresent Beach",
+    "lat": 41.1864276578175,
+    "lng": -71.5677660889906,
+    "description": "On beach trail",
+    "year": 2022
+  },
+  {
+    "num": 112,
+    "author": "N. MORAND",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 114,
+    "author": "D. Marye",
+    "area": "West Side",
+    "location": "Beach (between Gracies and Dorries Cove)",
+    "lat": 41.1795101499119,
+    "lng": -71.606274341351,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 115,
+    "author": "D. Morel",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 118,
+    "author": "R. Johnson",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 119,
+    "author": "J. Bruno",
+    "area": "New Harbor",
+    "location": "Ocean Ave. Bridge",
+    "lat": 41.1784538530662,
+    "lng": -71.572532632253,
+    "description": "in water",
+    "year": 2022
+  },
+  {
+    "num": 124,
+    "author": "S. Gardner",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 128,
+    "author": "K. Melahn",
+    "area": "West Side",
+    "location": "Harrison Trail",
+    "lat": 41.1808523490437,
+    "lng": -71.5854522395415,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 130,
+    "author": "M. McNeill",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 132,
+    "author": "D. McDonough",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "bike rack",
+    "year": 2022
+  },
+  {
+    "num": 133,
+    "author": "S. Ebdon",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 134,
+    "author": "D. Hintz",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 136,
+    "author": "D. Ciok",
+    "area": "Southwest",
+    "location": "Black Rock Road (trail)",
+    "lat": 41.1516428858915,
+    "lng": -71.5901612631851,
+    "description": "at the end of road",
+    "year": 2022
+  },
+  {
+    "num": 139,
+    "author": "S. Hayes",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 140,
+    "author": "N. Hedgcorth",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 141,
+    "author": "L. Price",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1478153588598,
+    "lng": -71.5900745319511,
+    "description": "behind the bench",
+    "year": 2022
+  },
+  {
+    "num": 149,
+    "author": "T. Kolln",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": "under a horse show crab shell",
+    "year": 2022
+  },
+  {
+    "num": 150,
+    "author": "L. Brown",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 154,
+    "author": "E. Walsh",
+    "area": "Southwest",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 156,
+    "author": "O. Smith",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 157,
+    "author": "D. Foley",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 159,
+    "author": "J. Weinstein",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 16,
+    "author": "D. Iannucci",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1656895374253,
+    "lng": -71.5946428464257,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 160,
+    "author": "J. Howell",
+    "area": "Corn Neck",
+    "location": "Beach (across from Beachhead)",
+    "lat": 41.1756699132948,
+    "lng": -71.5617107586298,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 161,
+    "author": "A. Alsup",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in the maze",
+    "year": 2022
+  },
+  {
+    "num": 167,
+    "author": "T. Jameson",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a tree",
+    "year": 2022
+  },
+  {
+    "num": 17,
+    "author": "S. Morton",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 183,
+    "author": "M. Sageser",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 185,
+    "author": "K. Long",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 186,
+    "author": "A. Doherty",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 19,
+    "author": "T. Serio",
+    "area": "West Side",
+    "location": "Harrison Trail",
+    "lat": 41.1808523490437,
+    "lng": -71.5854522395415,
+    "description": "in a rock wall",
+    "year": 2022
+  },
+  {
+    "num": 197,
+    "author": "D. Holmes",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.2005842785942,
+    "lng": -71.574759572655,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 199,
+    "author": "B. Baker",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 202,
+    "author": "K. Wadds",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 21,
+    "author": "N. McCaffrey",
+    "area": "New Harbor",
+    "location": "Bonnell Beach",
+    "lat": 41.1859825981142,
+    "lng": -71.5844582645584,
+    "description": "path in tree",
+    "year": 2022
+  },
+  {
+    "num": 214,
+    "author": "D. Ballek",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in the stone wall",
+    "year": 2022
+  },
+  {
+    "num": 22,
+    "author": "J. Swank",
+    "area": "West Side",
+    "location": "Greenway Trail (Beacon Hill to GSP)",
+    "lat": 41.1748450501413,
+    "lng": -71.586671363783,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 226,
+    "author": "W. Pottgen",
+    "area": "Southwest",
+    "location": "Cooneymus Cove",
+    "lat": 41.1642268004519,
+    "lng": -71.6108264686888,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 227,
+    "author": "B. Tucker",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 228,
+    "author": "L. Valenti",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1652323167185,
+    "lng": -71.5872185344213,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 228,
+    "author": "M. Kathleen",
+    "area": "West Side",
+    "location": "West Side Rd.",
+    "lat": 41.1711230207308,
+    "lng": -71.6011653816069,
+    "description": "under sign for trail marker",
+    "year": 2022
+  },
+  {
+    "num": 229,
+    "author": "M. Moyers",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 231,
+    "author": "S. Stohr",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 233,
+    "author": "J. Hill",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "in tall grass",
+    "year": 2022
+  },
+  {
+    "num": 234,
+    "author": "K. Valente",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 236,
+    "author": "C. Domurat",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "in the sign",
+    "year": 2022
+  },
+  {
+    "num": 237,
+    "author": "L. Harrison",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 24,
+    "author": "D. Londregan",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": "sign",
+    "year": 2022
+  },
+  {
+    "num": 25,
+    "author": "A. Custer",
+    "area": "New Harbor",
+    "location": "Indian Monument on Ocean Ave.",
+    "lat": 41.1790093140205,
+    "lng": -71.5730193036276,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 28,
+    "author": "J. Scheiber",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 315,
+    "author": "W. Rioux",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "end of wood wlk",
+    "year": 2022
+  },
+  {
+    "num": 320,
+    "author": "A. Palmer Pahnke",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 323,
+    "author": "N. Thornberry",
+    "area": "Central",
+    "location": "Smile'n Through",
+    "lat": 41.1640248571975,
+    "lng": -71.5829643004479,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 327,
+    "author": "M. Ebling",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 330,
+    "author": "M. Shields",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 331,
+    "author": "M. Matsen",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "at bridge",
+    "year": 2022
+  },
+  {
+    "num": 335,
+    "author": "K. Baldwin",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 339,
+    "author": "C. Cousins",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 340,
+    "author": "J. Hanrahan",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 341,
+    "author": "F. Bernabe",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 344,
+    "author": "H. Allan",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 345,
+    "author": "J. Kornacki",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "on rocks",
+    "year": 2022
+  },
+  {
+    "num": 346,
+    "author": "B. OConnor",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "on rock pile",
+    "year": 2022
+  },
+  {
+    "num": 349,
+    "author": "G. Merrigan",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 350,
+    "author": "N. Thompson",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 351,
+    "author": "C. Beil",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 352,
+    "author": "S. Costello",
+    "area": "Southwest",
+    "location": "Black Rock Road (trail)",
+    "lat": 41.1516428858915,
+    "lng": -71.5901612631851,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 354,
+    "author": "K. Luongo",
+    "area": "Central",
+    "location": "Ocean Ave.",
+    "lat": 41.175355566661,
+    "lng": -71.5689380682413,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 356,
+    "author": "P. Freshman",
+    "area": "West Side",
+    "location": "Greenway Trail (Beacon Hill to GSP)",
+    "lat": 41.1748450501413,
+    "lng": -71.586671363783,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 357,
+    "author": "S. St Lawrence",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 359,
+    "author": "J. Sowell",
+    "area": "Central",
+    "location": "Ocean Ave.",
+    "lat": 41.175355566661,
+    "lng": -71.5689380682413,
+    "description": "in stone wall",
+    "year": 2022
+  },
+  {
+    "num": 360,
+    "author": "S. Cantone",
+    "area": "West Side",
+    "location": "Marsh Hawk Hollow",
+    "lat": 41.1730735661671,
+    "lng": -71.5876816876773,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 361,
+    "author": "G. D",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 362,
+    "author": "D. Tuschick",
+    "area": "Southwest",
+    "location": "Janes Lane Trail",
+    "lat": 41.1809742395275,
+    "lng": -71.586255213173,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 363,
+    "author": "K. Brunner",
+    "area": "West Side",
+    "location": "Harrison Trail",
+    "lat": 41.1809250230938,
+    "lng": -71.5858706641417,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 365,
+    "author": "L. Aparo",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 367,
+    "author": "J. Golon",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": "in BIG tree",
+    "year": 2022
+  },
+  {
+    "num": 368,
+    "author": "T. Brown",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 370,
+    "author": "M. Pimer",
+    "area": "New Harbor",
+    "location": "Ocean Ave. Park (across from Power Company)",
+    "lat": 41.1763677889806,
+    "lng": -71.5706877730964,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 378,
+    "author": "K. Palmer",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 379,
+    "author": "T. Rugani",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 382,
+    "author": "L. Izzi",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": "under driftwood",
+    "year": 2022
+  },
+  {
+    "num": 392,
+    "author": "J. Curtin",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": "sign",
+    "year": 2022
+  },
+  {
+    "num": 394,
+    "author": "K. Packard",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "on a tree branch",
+    "year": 2022
+  },
+  {
+    "num": 397,
+    "author": "D. Ladouceur",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 40,
+    "author": "C. Jacovides",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 404,
+    "author": "A. Bathke",
+    "area": "Southwest",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 406,
+    "author": "D. Ebling",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 407,
+    "author": "M. Morreale",
+    "area": "Southwest",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 408,
+    "author": "D. Groccia",
+    "area": "Southwest",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 41,
+    "author": "S. Pai",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 42,
+    "author": "L. Blessing",
+    "area": "Southwest",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 43,
+    "author": "P. Kolln",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 44,
+    "author": "E. Barrett",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "rock wall",
+    "year": 2022
+  },
+  {
+    "num": 441,
+    "author": "C. Kauffman",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 45,
+    "author": "G. Smith",
+    "area": "New Harbor",
+    "location": "Beach Ave. Bridge",
+    "lat": 41.1788479914148,
+    "lng": -71.5663201558777,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 469,
+    "author": "J. Pottgen",
+    "area": "Central",
+    "location": "Middle Earth",
+    "lat": 41.1746148328162,
+    "lng": -71.584837287983,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 477,
+    "author": "S. Pottgen",
+    "area": "West Side",
+    "location": "Dodge Cemetery",
+    "lat": 41.1664535854349,
+    "lng": -71.5964831630973,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 48,
+    "author": "A. Boucher",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 51,
+    "author": "S. Gunzel",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 54,
+    "author": "G. Tibbetts",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 58,
+    "author": "C. Scarcello",
+    "area": "Southwest",
+    "location": "Cooneymus Cove",
+    "lat": 41.1642268004519,
+    "lng": -71.6108264686888,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 62,
+    "author": "M. Starke",
+    "area": "Off Island",
+    "location": "BI Ferry",
+    "lat": 41.1794016070399,
+    "lng": -71.5552409880884,
+    "description": "in woman's bathroom",
+    "year": 2022
+  },
+  {
+    "num": 68,
+    "author": "M. Krieg",
+    "area": "Southwest",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 69,
+    "author": "J. Hoder",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 71,
+    "author": "B. Manseau",
+    "area": "Southwest",
+    "location": "Cooneymus Cove",
+    "lat": 41.1642268004519,
+    "lng": -71.6108264686888,
+    "description": "at entrance inside log",
+    "year": 2022
+  },
+  {
+    "num": 81,
+    "author": "M. Maust",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 94,
+    "author": "D. Morander",
+    "area": "Southwest",
+    "location": "Southwest Point Beach",
+    "lat": 41.1602709237173,
+    "lng": -71.6124962538661,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 98,
+    "author": "D. Marchini",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2022
+  },
+  {
+    "num": 148,
+    "author": "S. Foster",
+    "area": "Old Harbor",
+    "location": "Abrams Animal Farm",
+    "lat": 41.1692053987018,
+    "lng": -71.5574284791039,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 216,
+    "author": "G. Megenis",
+    "area": "Old Harbor",
+    "location": "Abrams Animal Farm",
+    "lat": 41.1692053987018,
+    "lng": -71.5574284791039,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 154,
+    "author": "K. Payne",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.2005842785942,
+    "lng": -71.574759572655,
+    "description": "on beach",
+    "year": 2021
+  },
+  {
+    "num": 164,
+    "author": "B. P",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.2005842785942,
+    "lng": -71.574759572655,
+    "description": "on rock",
+    "year": 2021
+  },
+  {
+    "num": 503,
+    "author": "T. Sanford",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": "on path",
+    "year": 2021
+  },
+  {
+    "num": 486,
+    "author": "G. Swain",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": "on path",
+    "year": 2021
+  },
+  {
+    "num": 281,
+    "author": "E. Smith",
+    "area": "Corn Neck",
+    "location": "Attwood Property",
+    "lat": 41.2180151744925,
+    "lng": -71.5649489069365,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 73,
+    "author": "K. Thomas",
+    "area": "Corn Neck",
+    "location": "Beach (across from Beachhead)",
+    "lat": 41.1756699132948,
+    "lng": -71.5617107586298,
+    "description": "on beach",
+    "year": 2021
+  },
+  {
+    "num": 501,
+    "author": "M. Carter",
+    "area": "Corn Neck",
+    "location": "Beach (across from Oyster store)",
+    "lat": 41.1789807730728,
+    "lng": -71.5646611797318,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 295,
+    "author": "D. Glatthorn",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": "on beach",
+    "year": 2021
+  },
+  {
+    "num": 458,
+    "author": "M. Blake",
+    "area": "Old Harbor",
+    "location": "Beach access trail in Old Harbor in town",
+    "lat": 41.1742928236836,
+    "lng": -71.5586433209846,
+    "description": "in front of the National",
+    "year": 2021
+  },
+  {
+    "num": 529,
+    "author": "M. McIntyre",
+    "area": "Old Harbor",
+    "location": "Beach access trail in Old Harbor in town",
+    "lat": 41.1742928236836,
+    "lng": -71.5586433209846,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 10,
+    "author": "B. McKeon",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 25,
+    "author": "J. Keith",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 364,
+    "author": "T. Serio",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1803736893197,
+    "lng": -71.5682113843824,
+    "description": "hanging from a string on a tree by the water",
+    "year": 2021
+  },
+  {
+    "num": 377,
+    "author": "S. Smiley",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 382,
+    "author": "L. Naarden",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 437,
+    "author": "J. Marshall",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 205,
+    "author": "C. Lloyd",
+    "area": "Southwest",
+    "location": "Black Rock Beach",
+    "lat": 41.1482336711839,
+    "lng": -71.5881120555036,
+    "description": "on path down to beach",
+    "year": 2021
+  },
+  {
+    "num": 134,
+    "author": "C. McGee",
+    "area": "Southwest",
+    "location": "Black Rock Road (trail)",
+    "lat": 41.1516428858915,
+    "lng": -71.5901612631851,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 240,
+    "author": "A. Russack",
+    "area": "Southwest",
+    "location": "Black Rock Road (trail)",
+    "lat": 41.1516428858915,
+    "lng": -71.5901612631851,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 414,
+    "author": "J. DelFino",
+    "area": "Southwest",
+    "location": "Black Rock Road (trail)",
+    "lat": 41.1516428858915,
+    "lng": -71.5901612631851,
+    "description": "in tree on",
+    "year": 2021
+  },
+  {
+    "num": 85,
+    "author": "H. Kilmartin",
+    "area": "Southwest",
+    "location": "Black Rock Road (trail)",
+    "lat": 41.1516428858915,
+    "lng": -71.5901612631851,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 4,
+    "author": "M. Karasevicz",
+    "area": "New Harbor",
+    "location": "Bonnell Beach",
+    "lat": 41.1859825981142,
+    "lng": -71.5844582645584,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 181,
+    "author": "E. Collard &amp; Austin",
+    "area": "Corn Neck",
+    "location": "Breed Land Trail",
+    "lat": 41.217531496136,
+    "lng": -71.5686324142385,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 238,
+    "author": "G. Mott",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2091212696423,
+    "lng": -71.5629635889018,
+    "description": "entrance",
+    "year": 2021
+  },
+  {
+    "num": 277,
+    "author": "A. Blessing",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2223939199716,
+    "lng": -71.5612588698156,
+    "description": "north side",
+    "year": 2021
+  },
+  {
+    "num": 28,
+    "author": "J. DeMaggio",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": "in between a tree",
+    "year": 2021
+  },
+  {
+    "num": 29,
+    "author": "D. Watring",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2128314700926,
+    "lng": -71.5547702093259,
+    "description": "on beach",
+    "year": 2021
+  },
+  {
+    "num": 368,
+    "author": "A. Thompson",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 429,
+    "author": "R. Burdick",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 448,
+    "author": "L. Farrell",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 468,
+    "author": "A. Diclemente",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 473,
+    "author": "C. Keen",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 494,
+    "author": "N. Emrick",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2223939199716,
+    "lng": -71.5612588698156,
+    "description": "base of the dunes on the beach at end",
+    "year": 2021
+  },
+  {
+    "num": 509,
+    "author": "B. Elgart",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 523,
+    "author": "K. Eichelberg",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 536,
+    "author": "R. Cordano",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": "in tree nook",
+    "year": 2021
+  },
+  {
+    "num": 319,
+    "author": "K. Mccutchan",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 319,
+    "author": "K. Mccutchan",
+    "area": "West Side",
+    "location": "Coast Guard Station",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": "in hollow log on path to beach",
+    "year": 2021
+  },
+  {
+    "num": 2,
+    "author": "E. A.",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "at bench overlook",
+    "year": 2021
+  },
+  {
+    "num": 234,
+    "author": "E. Brayshaw",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 246,
+    "author": "C. Levy",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 265,
+    "author": "E. DeFalco",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 37,
+    "author": "G. D",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 373,
+    "author": "H. Lemos",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 38,
+    "author": "D. Castellone",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "at bench overlook",
+    "year": 2021
+  },
+  {
+    "num": 497,
+    "author": "T. Owen",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "by Peter Woods house",
+    "year": 2021
+  },
+  {
+    "num": 53,
+    "author": "D. Morel",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "in a wall behind a rock",
+    "year": 2021
+  },
+  {
+    "num": 55,
+    "author": "K. Brennan",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "on ground in brush",
+    "year": 2021
+  },
+  {
+    "num": 517,
+    "author": "T. Asaro",
+    "area": "Corn Neck",
+    "location": "Crescent Beach",
+    "lat": 41.1874995057427,
+    "lng": -71.5667533115764,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 210,
+    "author": "M. Flomenhaft",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 256,
+    "author": "J. Hill",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 268,
+    "author": "M. Alexander",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 274,
+    "author": "C. Sedon",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "entrance",
+    "year": 2021
+  },
+  {
+    "num": 293,
+    "author": "D. Morel",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "base of a bush",
+    "year": 2021
+  },
+  {
+    "num": 3,
+    "author": "D. Carpenter",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "in tall grass",
+    "year": 2021
+  },
+  {
+    "num": 350,
+    "author": "K. Sabatino",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 463,
+    "author": "J. Hovanec",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 482,
+    "author": "D. Morel",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 502,
+    "author": "C. Pike",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 549,
+    "author": "J. Wielblad",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 351,
+    "author": "H. Black",
+    "area": "West Side",
+    "location": "Dodge Cemetery",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 361,
+    "author": "C. DeSousa",
+    "area": "West Side",
+    "location": "Dodge Cemetery",
+    "lat": 41.1664535854349,
+    "lng": -71.5964831630973,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 143,
+    "author": "D. Riccio",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "under stump on the beach",
+    "year": 2021
+  },
+  {
+    "num": 175,
+    "author": "M. Ward",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "on path",
+    "year": 2021
+  },
+  {
+    "num": 255,
+    "author": null,
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 317,
+    "author": "C. Casazza",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "on the beach inside a log",
+    "year": 2021
+  },
+  {
+    "num": 233,
+    "author": "M. Leveille",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 331,
+    "author": "B. Kelly",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 335,
+    "author": "K. Hough",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 404,
+    "author": "M. Hough",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 57,
+    "author": "K. Vaast",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": "in tree",
+    "year": 2021
+  },
+  {
+    "num": 427,
+    "author": "R. Stover",
+    "area": "New Harbor",
+    "location": "Fire Department",
+    "lat": 41.1770252915309,
+    "lng": -71.5704090893441,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 220,
+    "author": "K. Geller",
+    "area": "Corn Neck",
+    "location": "Fred Benson Town Beach",
+    "lat": 41.1828554486701,
+    "lng": -71.5663535892992,
+    "description": "on walkway",
+    "year": 2021
+  },
+  {
+    "num": 222,
+    "author": "J. Drenga",
+    "area": "Corn Neck",
+    "location": "Fred Benson Town Beach",
+    "lat": 41.1828554486701,
+    "lng": -71.5663535892992,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 518,
+    "author": "A. Doll",
+    "area": "Corn Neck",
+    "location": "Fred Benson Town Beach",
+    "lat": 41.1828554486701,
+    "lng": -71.5663535892992,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 465,
+    "author": "J. Rojas",
+    "area": "Corn Neck",
+    "location": "Fred Benson Town Beach",
+    "lat": 41.1828554486701,
+    "lng": -71.5663535892992,
+    "description": "in the rocks",
+    "year": 2021
+  },
+  {
+    "num": 102,
+    "author": "K. Doherty",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 107,
+    "author": "J. Macomb",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "heading to Rodman's Hollow in a grouping of stones",
+    "year": 2021
+  },
+  {
+    "num": 120,
+    "author": "M. Berry",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 122,
+    "author": "K. McMahon",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 127,
+    "author": "L. Price",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 135,
+    "author": "E. DeLorenzo",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 16,
+    "author": "D. Holmes",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 208,
+    "author": "M. Colandrea",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 283,
+    "author": "E. Post",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "near the entrance",
+    "year": 2021
+  },
+  {
+    "num": 304,
+    "author": "J. Rushford",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 417,
+    "author": "A. Read",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "in stump",
+    "year": 2021
+  },
+  {
+    "num": 59,
+    "author": "J. Mahoney",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "rock wall",
+    "year": 2021
+  },
+  {
+    "num": 61,
+    "author": "N. Daignault",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "in long stone wall adjacent to field",
+    "year": 2021
+  },
+  {
+    "num": 69,
+    "author": "S. Daignault",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "behind wall at base of tree",
+    "year": 2021
+  },
+  {
+    "num": 86,
+    "author": "S. Mahoney",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "side of trail",
+    "year": 2021
+  },
+  {
+    "num": 88,
+    "author": "B. Murphy",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "rock wall",
+    "year": 2021
+  },
+  {
+    "num": 89,
+    "author": "L. Costantini",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "in grass",
+    "year": 2021
+  },
+  {
+    "num": 91,
+    "author": "V. Allison DiMenna",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 92,
+    "author": "G. Valenti",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 99,
+    "author": "S. Riley",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 145,
+    "author": "A. Gaissl",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 177,
+    "author": "J. Bright",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 18,
+    "author": "W. Peterson",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 231,
+    "author": "L. Farmer",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": "path inside a stone wall at the entrance",
+    "year": 2021
+  },
+  {
+    "num": 266,
+    "author": "M. Robinson",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 269,
+    "author": "D. Cook",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 280,
+    "author": "J. Hoover",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 286,
+    "author": "S. Klimstra",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 30,
+    "author": "S. Clark",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 393,
+    "author": "B. Kelly",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 42,
+    "author": "M. Valenti",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 460,
+    "author": "C. Renne",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": "behind a rock",
+    "year": 2021
+  },
+  {
+    "num": 487,
+    "author": "E. Baish",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 49,
+    "author": "J. Valenti",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 532,
+    "author": "D. Jezek",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": "On Greenway Trail",
+    "year": 2021
+  },
+  {
+    "num": 17,
+    "author": "D. Kroon",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": "in a log",
+    "year": 2021
+  },
+  {
+    "num": 221,
+    "author": "K. McCaffery",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 323,
+    "author": "H. Place",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": "under log",
+    "year": 2021
+  },
+  {
+    "num": 367,
+    "author": "D. Chiavaroli",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": "nestled between a piece of driftwood and sea grass at",
+    "year": 2021
+  },
+  {
+    "num": 379,
+    "author": "A. Lyons",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": "in the bike rack",
+    "year": 2021
+  },
+  {
+    "num": 412,
+    "author": "K. Arnold",
+    "area": "New Harbor",
+    "location": "Great Salt Pond",
+    "lat": 41.1894526554053,
+    "lng": -71.5819705169568,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 514,
+    "author": "B. Lees",
+    "area": "New Harbor",
+    "location": "Great Salt Pond",
+    "lat": 41.1956843067905,
+    "lng": -71.5880164504687,
+    "description": "near the channel",
+    "year": 2021
+  },
+  {
+    "num": 133,
+    "author": "A. Socas",
+    "area": "New Harbor",
+    "location": "Greenway Trail Great Salt Pond",
+    "lat": 41.1819972789657,
+    "lng": -71.5812305981362,
+    "description": "in a tree on the",
+    "year": 2021
+  },
+  {
+    "num": 345,
+    "author": "H. Family",
+    "area": "Old Harbor",
+    "location": "Harbor Church /Nichols Park",
+    "lat": 41.1718706807641,
+    "lng": -71.5570869432461,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 495,
+    "author": "S. Bratko",
+    "area": "Old Harbor",
+    "location": "Harbor Church /Nichols Park",
+    "lat": 41.1718706807641,
+    "lng": -71.5570869432461,
+    "description": "tree in front of",
+    "year": 2021
+  },
+  {
+    "num": 397,
+    "author": "E. Emgushov",
+    "area": "West Side",
+    "location": "Harrison Loop",
+    "lat": 41.1801014303043,
+    "lng": -71.5856990218441,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 349,
+    "author": "M. Rahn",
+    "area": "West Side",
+    "location": "Harrison Trail",
+    "lat": 41.1809250230938,
+    "lng": -71.5858706641417,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 542,
+    "author": "S. Ariel",
+    "area": "West Side",
+    "location": "Harrison Trail",
+    "lat": 41.1809250230938,
+    "lng": -71.5858706641417,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 78,
+    "author": "A. Sylvester",
+    "area": "West Side",
+    "location": "Harrison Trail",
+    "lat": 41.1809250230938,
+    "lng": -71.5858706641417,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 217,
+    "author": "J. Hutchinson",
+    "area": "Corn Neck",
+    "location": "Hodge family wildlife preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 276,
+    "author": "D. Nigrelli",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 288,
+    "author": "J. Hutchinson",
+    "area": "Corn Neck",
+    "location": "Hodge family wildlife preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 297,
+    "author": "C. Adams",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "in the bushes in circle part of trail",
+    "year": 2021
+  },
+  {
+    "num": 302,
+    "author": "D. Waggoner",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 313,
+    "author": "J. Hutchinson",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 420,
+    "author": "J. Brightman",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "map stand",
+    "year": 2021
+  },
+  {
+    "num": 424,
+    "author": "G. Raffa",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 438,
+    "author": "A. Correia",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 453,
+    "author": "S. Brightman",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "trailside",
+    "year": 2021
+  },
+  {
+    "num": 476,
+    "author": "J. Shakeri",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 491,
+    "author": "T. Davis",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "in front of fence",
+    "year": 2021
+  },
+  {
+    "num": 539,
+    "author": "A. Rodriques",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 478,
+    "author": "J. Marshall",
+    "area": "New Harbor",
+    "location": "Indian Monument on Ocean Ave.",
+    "lat": 41.1790093140205,
+    "lng": -71.5730193036276,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 531,
+    "author": "R. Naughton",
+    "area": "New Harbor",
+    "location": "Island Cemetery",
+    "lat": 41.1793284664681,
+    "lng": -71.5795297168528,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 548,
+    "author": "S. Goldbach",
+    "area": "Old Harbor",
+    "location": "Jetty Rocks (near Ferry)",
+    "lat": 41.174481329605,
+    "lng": -71.5588357947031,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 111,
+    "author": "H. Delaney",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 116,
+    "author": "D. Bates",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 126,
+    "author": "T. Family",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 291,
+    "author": "S. Blank",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 90,
+    "author": "G. Lang",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 303,
+    "author": "B. Rambone",
+    "area": "Corn Neck",
+    "location": "Labyrinth",
+    "lat": 41.2172436902458,
+    "lng": -71.5657985249406,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 306,
+    "author": "M. Duval",
+    "area": "Corn Neck",
+    "location": "Labyrinth",
+    "lat": 41.2172436902458,
+    "lng": -71.5657985249406,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 483,
+    "author": "E. Auer",
+    "area": "Corn Neck",
+    "location": "Labyrinth",
+    "lat": 41.2172436902458,
+    "lng": -71.5657985249406,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 212,
+    "author": "S. Sohl",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in cannon",
+    "year": 2021
+  },
+  {
+    "num": 322,
+    "author": "B. Ziobro",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in cannon",
+    "year": 2021
+  },
+  {
+    "num": 358,
+    "author": "K. Anthony sammartano",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in cannon",
+    "year": 2021
+  },
+  {
+    "num": 423,
+    "author": "M. Murphy",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in cannon",
+    "year": 2021
+  },
+  {
+    "num": 485,
+    "author": "E. Rabby",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 535,
+    "author": "C. Badolato",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 157,
+    "author": "D. Roczniak",
+    "area": "Old Harbor",
+    "location": "Lobster Pot Christmas Tree",
+    "lat": 41.1737193045773,
+    "lng": -71.5586673560037,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 188,
+    "author": "D. Caja",
+    "area": "Old Harbor",
+    "location": "Lobster Pot Christmas Tree",
+    "lat": 41.1737193045773,
+    "lng": -71.5586673560037,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 12,
+    "author": "M. Savo",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 339,
+    "author": "G. Magnano",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 82,
+    "author": "J. Foster Green",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 178,
+    "author": "C. Holmes",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 50,
+    "author": "G. Pettitt",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 64,
+    "author": "B. Nelligan",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 156,
+    "author": "S. Swider",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2125377455954,
+    "lng": -71.5632557672791,
+    "description": "at Long Lot Pond",
+    "year": 2021
+  },
+  {
+    "num": 289,
+    "author": "M. Little",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": "in foundation",
+    "year": 2021
+  },
+  {
+    "num": 399,
+    "author": "L. Connolly",
+    "area": "West Side",
+    "location": "Marsh Hawk Hollow",
+    "lat": 41.1730735661671,
+    "lng": -71.5876816876773,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 456,
+    "author": "G. Andrews",
+    "area": "West Side",
+    "location": "Marsh Hawk Hollow",
+    "lat": 41.1730735661671,
+    "lng": -71.5876816876773,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 56,
+    "author": "D. Iannucci",
+    "area": "West Side",
+    "location": "Marsh Hawk Hollow",
+    "lat": 41.1730735661671,
+    "lng": -71.5876816876773,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 80,
+    "author": "R. Pettitt",
+    "area": "West Side",
+    "location": "Marsh Hawk Hollow",
+    "lat": 41.1730735661671,
+    "lng": -71.5876816876773,
+    "description": "left in bike basket",
+    "year": 2021
+  },
+  {
+    "num": 14,
+    "author": "J. Plotzke",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": "under the rock wall",
+    "year": 2021
+  },
+  {
+    "num": 263,
+    "author": "J. Koziol",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 365,
+    "author": "C. Holland",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 66,
+    "author": "G. Liacouras",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 516,
+    "author": "D. Matera",
+    "area": "Old Harbor",
+    "location": "Mary MacGill Store",
+    "lat": 41.1740856229866,
+    "lng": -71.5601332052746,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 79,
+    "author": "J. Katz",
+    "area": "Central",
+    "location": "Mazzur Trail",
+    "lat": 41.1648023867541,
+    "lng": -71.5836854085462,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 166,
+    "author": "R. Smith",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 168,
+    "author": "L. Yena",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": "under rock",
+    "year": 2021
+  },
+  {
+    "num": 218,
+    "author": "J. Smith",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 238,
+    "author": "J. Nasznic",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 426,
+    "author": "J. Laney",
+    "area": "Central",
+    "location": "Middle Earth",
+    "lat": 41.1746148328162,
+    "lng": -71.584837287983,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 12,
+    "author": "A. Nelae",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 159,
+    "author": "D. Vieira",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": "next to the 2nd tree on the right",
+    "year": 2021
+  },
+  {
+    "num": 311,
+    "author": "C. Russell",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 326,
+    "author": "B. Cheeney",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 33,
+    "author": "S. Patterson",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 36,
+    "author": "A. Miller",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 419,
+    "author": "A. Gurtowsky",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 435,
+    "author": "M. Berge",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 439,
+    "author": "D. Elsworth",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": "on stairway",
+    "year": 2021
+  },
+  {
+    "num": 471,
+    "author": "T. OConnor",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 519,
+    "author": "S. Hatter",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 520,
+    "author": "A. Arms",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 541,
+    "author": "C. Jones",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": "bottom of stairs",
+    "year": 2021
+  },
+  {
+    "num": 184,
+    "author": "G. Barnett",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 199,
+    "author": "S. Warcup",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 206,
+    "author": "V. Valenti",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 344,
+    "author": "J. Lee",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 482,
+    "author": "S. Hooper",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 81,
+    "author": "M. Moynihan",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 273,
+    "author": "E. Chase",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 500,
+    "author": "L. Santarpio",
+    "area": "Central",
+    "location": "Ocean Ave. before depot",
+    "lat": 41.175355566661,
+    "lng": -71.5689380682413,
+    "description": "in stone wall",
+    "year": 2021
+  },
+  {
+    "num": 488,
+    "author": "C. Wadelin",
+    "area": "New Harbor",
+    "location": "Ocean Ave. Bridge",
+    "lat": 41.1784538530662,
+    "lng": -71.572532632253,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 415,
+    "author": "I. Ariel",
+    "area": "New Harbor",
+    "location": "Ocean Ave. Park (across from Power Company)",
+    "lat": 41.1763677889806,
+    "lng": -71.5706877730964,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 207,
+    "author": "T. Andrianambinina",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.1716106004157,
+    "lng": -71.5552143810593,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 23,
+    "author": "O. Penczak",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.171757987924,
+    "lng": -71.5543855784772,
+    "description": "path near Ballards",
+    "year": 2021
+  },
+  {
+    "num": 418,
+    "author": "S. DeAngelis",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.171757987924,
+    "lng": -71.5543855784772,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 54,
+    "author": "H. Buhler",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.1716106004157,
+    "lng": -71.5552143810593,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 70,
+    "author": "K. C",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.171757987924,
+    "lng": -71.5543855784772,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 264,
+    "author": "C. Chodosh",
+    "area": "Central",
+    "location": "Old Mill Loop",
+    "lat": 41.1650005490654,
+    "lng": -71.5914863620454,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 374,
+    "author": "A. MacDonnell",
+    "area": "Central",
+    "location": "Old Mill Loop",
+    "lat": 41.1650005490654,
+    "lng": -71.5914863620454,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 402,
+    "author": "M. Magnano",
+    "area": "Central",
+    "location": "Old Mill Loop",
+    "lat": 41.1650005490654,
+    "lng": -71.5914863620454,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 362,
+    "author": "O. Merolle",
+    "area": "Central",
+    "location": "Old Mill Road",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 421,
+    "author": "B. Simkins",
+    "area": "Central",
+    "location": "Old Mill Road",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 283,
+    "author": "S. Hilger",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 310,
+    "author": "D. Hayde",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 355,
+    "author": "J. Newman",
+    "area": "Central",
+    "location": "Old Pet Cemetery",
+    "lat": 41.161072035203,
+    "lng": -71.5859316291264,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 524,
+    "author": "J. Eckert",
+    "area": "Southeast",
+    "location": "Pebbly Beach",
+    "lat": 41.1667819670979,
+    "lng": -71.5510613878192,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 136,
+    "author": "M. Samuelson",
+    "area": "Southeast",
+    "location": "Pilot Hill Road &amp; Mohegan Trail",
+    "lat": 41.1536554508436,
+    "lng": -71.5592931757735,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 155,
+    "author": "M. Nigh",
+    "area": "Southeast",
+    "location": "Pilot Hill Road &amp; Mohegan Trail",
+    "lat": 41.1536554508436,
+    "lng": -71.5592931757735,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 150,
+    "author": "P. P",
+    "area": "New Harbor",
+    "location": "Rat Island",
+    "lat": 41.1797243071385,
+    "lng": -71.5718670404779,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 469,
+    "author": "L. Salcedo",
+    "area": "Old Harbor",
+    "location": "Rebecca Statue",
+    "lat": 41.1721070323595,
+    "lng": -71.5574257354009,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 470,
+    "author": "M. Goodmaster",
+    "area": "Old Harbor",
+    "location": "Rebecca Statue",
+    "lat": 41.1721070323595,
+    "lng": -71.5574257354009,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 101,
+    "author": "E. Bullock",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "on side of trail",
+    "year": 2021
+  },
+  {
+    "num": 106,
+    "author": "L. Fiala",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 109,
+    "author": "D. Black",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 110,
+    "author": "E. Blakney",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 117,
+    "author": "S. Henshaw",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 123,
+    "author": "C. Balsamo",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 125,
+    "author": "J. Laney",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 129,
+    "author": "S. Gunzel",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 130,
+    "author": "C. McVerry",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 132,
+    "author": "A. Theriault",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 193,
+    "author": "B. Teich",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 215,
+    "author": "K. Allen",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 282,
+    "author": "B. Porter",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 284,
+    "author": "M. Nolan",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 292,
+    "author": "M. McManus",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 305,
+    "author": "J. Seddon",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 324,
+    "author": "K. Mello",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 330,
+    "author": "M. Petti",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "just below the Montauk lookout",
+    "year": 2021
+  },
+  {
+    "num": 375,
+    "author": "J. Bernier",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 400,
+    "author": "A. McManus",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 407,
+    "author": "S. St Lawrence",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 443,
+    "author": "L. Nigrelli",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 94,
+    "author": "A. Fillion",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 96,
+    "author": "S. Kiendzior",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 97,
+    "author": "B. Lyons Jr",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "in grass",
+    "year": 2021
+  },
+  {
+    "num": 98,
+    "author": "J. Sarkisian",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 104,
+    "author": "E. Flynn",
+    "area": "Southwest",
+    "location": "Rodman's Hollow (from Fresh Pond)",
+    "lat": 41.1580137000085,
+    "lng": -71.584458974417,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 128,
+    "author": "H. Tiernan",
+    "area": "Southwest",
+    "location": "Rodman's Hollow (from Fresh Pond)",
+    "lat": 41.1580137000085,
+    "lng": -71.584458974417,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 103,
+    "author": "S. Flynn",
+    "area": "Southwest",
+    "location": "Rodman's Hollow (near Peckham Farm)",
+    "lat": 41.1580137000085,
+    "lng": -71.584458974417,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 100,
+    "author": "C. Beil",
+    "area": "Southwest",
+    "location": "Rodman's Hollow (Short Loop)",
+    "lat": 41.1581348655752,
+    "lng": -71.5891260181076,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 105,
+    "author": "A. DiMenna",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 113,
+    "author": "R. Hollis",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 131,
+    "author": "N. Rosa",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1478153588598,
+    "lng": -71.5900745319511,
+    "description": "behind the bench",
+    "year": 2021
+  },
+  {
+    "num": 151,
+    "author": "S. Starr",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 239,
+    "author": "S. Doran",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 521,
+    "author": "S. DelCastillo",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 124,
+    "author": "J. Freidman",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 137,
+    "author": "S. Altieri",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 195,
+    "author": "T. Slye",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 309,
+    "author": "J. Mezlo",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1478153588598,
+    "lng": -71.5900745319511,
+    "description": "in the grass",
+    "year": 2021
+  },
+  {
+    "num": 543,
+    "author": "D. Duarte",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1478153588598,
+    "lng": -71.5900745319511,
+    "description": "Tom's point under bench",
+    "year": 2021
+  },
+  {
+    "num": 87,
+    "author": "J. Brothers",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 139,
+    "author": "L. Ardigliano",
+    "area": "Southwest",
+    "location": "Rodman's Hollow (Scenic overlook)",
+    "lat": 41.1478153588598,
+    "lng": -71.5900745319511,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 227,
+    "author": "G. Horne",
+    "area": "Southwest",
+    "location": "Schooner Point",
+    "lat": 41.1542223459698,
+    "lng": -71.6116130066383,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 294,
+    "author": "A. Sannicandro",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": "inside a log",
+    "year": 2021
+  },
+  {
+    "num": 452,
+    "author": "R. Richardson",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": "near path",
+    "year": 2021
+  },
+  {
+    "num": 46,
+    "author": "G. Bowt",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": "on path",
+    "year": 2021
+  },
+  {
+    "num": 492,
+    "author": "I. Aboelnour",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 511,
+    "author": "T. Dillon",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 550,
+    "author": "L. Hasselmann",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": "at entrance",
+    "year": 2021
+  },
+  {
+    "num": 484,
+    "author": "K. Carey",
+    "area": "New Harbor",
+    "location": "Sea Breeze Inn",
+    "lat": 41.1691224427733,
+    "lng": -71.5550908199666,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 165,
+    "author": "N. Clark",
+    "area": "Southeast",
+    "location": "Second Bluffs (Chalet Point)",
+    "lat": 41.151694,
+    "lng": -71.558186,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 41,
+    "author": "K. Morley",
+    "area": "Southeast",
+    "location": "Second Bluffs (Chalet Point)",
+    "lat": 41.151694,
+    "lng": -71.558186,
+    "description": "Chalet Point",
+    "year": 2021
+  },
+  {
+    "num": 450,
+    "author": "G. Swienton",
+    "area": "Corn Neck",
+    "location": "Settlers Rock",
+    "lat": 41.2255155656986,
+    "lng": -71.570817027142,
+    "description": "Settlers Rock",
+    "year": 2021
+  },
+  {
+    "num": 340,
+    "author": "L. Stoytchev",
+    "area": "Southeast",
+    "location": "South East Lighthouse",
+    "lat": 41.15384100174,
+    "lng": -71.5535312909177,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 35,
+    "author": "D. Patterson",
+    "area": "Southeast",
+    "location": "South East Lighthouse",
+    "lat": 41.15384100174,
+    "lng": -71.5535312909177,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 394,
+    "author": "C. DePari",
+    "area": "Southeast",
+    "location": "South East Lighthouse",
+    "lat": 41.15384100174,
+    "lng": -71.5535312909177,
+    "description": "fence post",
+    "year": 2021
+  },
+  {
+    "num": 464,
+    "author": "G. Birke",
+    "area": "Southeast",
+    "location": "South East Lighthouse",
+    "lat": 41.15384100174,
+    "lng": -71.5535312909177,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 474,
+    "author": "A. Panton",
+    "area": "Southeast",
+    "location": "South East Lighthouse",
+    "lat": 41.15384100174,
+    "lng": -71.5535312909177,
+    "description": "rock",
+    "year": 2021
+  },
+  {
+    "num": 530,
+    "author": "L. Dunham",
+    "area": "Southeast",
+    "location": "Spring Pond Area",
+    "lat": 41.1686396339897,
+    "lng": -71.5541543888282,
+    "description": "Spring Pond Area",
+    "year": 2021
+  },
+  {
+    "num": 5,
+    "author": "J. Kofron",
+    "area": "Southeast",
+    "location": "Spring Street",
+    "lat": 41.1677128601637,
+    "lng": -71.5516706632902,
+    "description": "on rock in the water off of spring street",
+    "year": 2021
+  },
+  {
+    "num": 127,
+    "author": "L. Blitzen",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 147,
+    "author": "C. Whitney",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 158,
+    "author": "L. Jones Aparo",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 169,
+    "author": "N. Bauer",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 176,
+    "author": "L. Valenti",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 183,
+    "author": "K. Burchell",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 185,
+    "author": "L. Kowal",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 194,
+    "author": "G. Tsakraklides",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "Lobster pot in",
+    "year": 2021
+  },
+  {
+    "num": 198,
+    "author": "A. Weissleder",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 201,
+    "author": "G. Price",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 22,
+    "author": "B. Wilson",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 225,
+    "author": "H. Dickerson",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "under log",
+    "year": 2021
+  },
+  {
+    "num": 232,
+    "author": "E. Yatco",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 47,
+    "author": "D. Nigrelli",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a tree",
+    "year": 2021
+  },
+  {
+    "num": 533,
+    "author": "J. Albert",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 545,
+    "author": "M. Morrissette",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 58,
+    "author": "J. Dix",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 60,
+    "author": "J. Piccarillo",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2130823581982,
+    "lng": -71.5599726439531,
+    "description": "On the hiking path near Little Sachem Pond",
+    "year": 2021
+  },
+  {
+    "num": 62,
+    "author": "C. Russo",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 173,
+    "author": "C. Birk",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in hollow part of limb of big tree",
+    "year": 2021
+  },
+  {
+    "num": 182,
+    "author": "W. Price",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 196,
+    "author": "J. Clarke",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 48,
+    "author": "B. Lowell",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "behind stone wall!",
+    "year": 2021
+  },
+  {
+    "num": 390,
+    "author": "S. Moran",
+    "area": "New Harbor",
+    "location": "Trims pond",
+    "lat": 41.1777343090608,
+    "lng": -71.5749680052367,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 371,
+    "author": "A. Foulkrod",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": "in a tree on",
+    "year": 2021
+  },
+  {
+    "num": 416,
+    "author": "T. J",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 71,
+    "author": "B. Berube",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 72,
+    "author": "C. Black",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 384,
+    "author": "M. Costello",
+    "area": "Old Harbor",
+    "location": "Visitor Center",
+    "lat": 41.1727838188544,
+    "lng": -71.5576451271789,
+    "description": "Visitor Center",
+    "year": 2021
+  },
+  {
+    "num": 219,
+    "author": "W. Selig",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 300,
+    "author": "J. Richmond",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.1955707109262,
+    "lng": -71.5872447509903,
+    "description": "Across the channel from the coast guard stationin log.",
+    "year": 2021
+  },
+  {
+    "num": 434,
+    "author": "J. McMahon",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": "Hollowed out log on",
+    "year": 2021
+  },
+  {
+    "num": 457,
+    "author": "A. Johnson",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": "50M north of the fence end in a Hoary Mugwort plant",
+    "year": 2021
+  },
+  {
+    "num": 510,
+    "author": "A. Only",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2021
+  },
+  {
+    "num": 515,
+    "author": "J. Sordillo",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.1955707109262,
+    "lng": -71.5872447509903,
+    "description": "Across the channel from the coast guard station",
+    "year": 2021
+  },
+  {
+    "num": 1,
+    "author": "J. Circone",
+    "area": "Corn Neck",
+    "location": "West Beach Road",
+    "lat": 41.2082385261911,
+    "lng": -71.5756689743486,
+    "description": "In pile of trash",
+    "year": 2021
+  },
+  {
+    "num": 441,
+    "author": "T. Nigrelli",
+    "area": "Corn Neck",
+    "location": "West Beach Road",
+    "lat": 41.2082385261911,
+    "lng": -71.5756689743486,
+    "description": "West Beach Road",
+    "year": 2021
+  },
+  {
+    "num": 254,
+    "author": "H. Neil",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "Win Dodge Preserve",
+    "year": 2021
+  },
+  {
+    "num": 27,
+    "author": "J. Levey",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "Win Dodge Preserve",
+    "year": 2021
+  },
+  {
+    "num": 278,
+    "author": "A. Queer Block Island",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "Win Dodge Preserve",
+    "year": 2021
+  },
+  {
+    "num": 31,
+    "author": "S. Benoit",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "Win Dodge Preserve",
+    "year": 2021
+  },
+  {
+    "num": 447,
+    "author": "M. Obivore",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "Win Dodge Preserve",
+    "year": 2021
+  },
+  {
+    "num": 0,
+    "author": "D. Beveridge",
+    "area": "Old Harbor",
+    "location": "Beach access trail in Old Harbor in town",
+    "lat": 41.1742928236836,
+    "lng": -71.5586433209846,
+    "description": "Stairs at the beach next to the Surf Hotel",
+    "year": 2020
+  },
+  {
+    "num": 1,
+    "author": "L. Valenti",
+    "area": "West Side",
+    "location": "Harrison Loop",
+    "lat": 41.1801014303043,
+    "lng": -71.5856990218441,
+    "description": "The Rona",
+    "year": 2020
+  },
+  {
+    "num": 10,
+    "author": "T. O'Connor",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 100,
+    "author": "C. Birk",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": "in a bush",
+    "year": 2020
+  },
+  {
+    "num": 103,
+    "author": "P. Campbell",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 104,
+    "author": "J. Devolve",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 105,
+    "author": "L. Birk",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": "in tall grass",
+    "year": 2020
+  },
+  {
+    "num": 109,
+    "author": "L. Will",
+    "area": "West Side",
+    "location": "Greenway between Old Mill Road and Dodge Cemetery",
+    "lat": 41.1667672758382,
+    "lng": -71.5944691409206,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 11,
+    "author": "L. Otter",
+    "area": "Corn Neck",
+    "location": "Beane Point",
+    "lat": 41.195717507328,
+    "lng": -71.5873460546793,
+    "description": "at the start",
+    "year": 2020
+  },
+  {
+    "num": 110,
+    "author": "B. Engelberger",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 112,
+    "author": "J. Kaufman",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": "in a tree at sunset",
+    "year": 2020
+  },
+  {
+    "num": 113,
+    "author": "P. Darling",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 114,
+    "author": "B. York",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 115,
+    "author": "E. Laney",
+    "area": "Central",
+    "location": "Old Mill Road",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": "in a bush",
+    "year": 2020
+  },
+  {
+    "num": 117,
+    "author": "T. Newell",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "in tree",
+    "year": 2020
+  },
+  {
+    "num": 118,
+    "author": "J. Paulhus",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 121,
+    "author": "J. Marshall",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": "bottom of broken stairs",
+    "year": 2020
+  },
+  {
+    "num": 122,
+    "author": "L. Valenti",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 123,
+    "author": "S. Shanley",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 125,
+    "author": "P. Schneider",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 126,
+    "author": "J. Valenti",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": "behind a long",
+    "year": 2020
+  },
+  {
+    "num": 127,
+    "author": "S. Fisher",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 128,
+    "author": "M. Montanari",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 129,
+    "author": "I. Ariel",
+    "area": "West Side",
+    "location": "New Trail",
+    "lat": 41.1669385921648,
+    "lng": -71.5937821756956,
+    "description": "off of Lofredo Loop",
+    "year": 2020
+  },
+  {
+    "num": 13,
+    "author": "H. Herdman",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 130,
+    "author": "E. King",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "end of a fallen tree",
+    "year": 2020
+  },
+  {
+    "num": 132,
+    "author": "K. Nelson",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 133,
+    "author": "C. Hickey",
+    "area": "West Side",
+    "location": "Dodge Cemetery",
+    "lat": 41.1664535854349,
+    "lng": -71.5964831630973,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 136,
+    "author": "J. Rothery",
+    "area": "Corn Neck",
+    "location": "Sandy Point",
+    "lat": 41.2300472852827,
+    "lng": -71.5771321870955,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 137,
+    "author": "F. Ribas",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 138,
+    "author": "M. Payne",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 139,
+    "author": "Z. McCamy",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": "in a large tree",
+    "year": 2020
+  },
+  {
+    "num": 14,
+    "author": "T. Nardini",
+    "area": "Corn Neck",
+    "location": "Beane Point",
+    "lat": 41.195717507328,
+    "lng": -71.5873460546793,
+    "description": "inside a log",
+    "year": 2020
+  },
+  {
+    "num": 140,
+    "author": "C. Connolly",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 141,
+    "author": "G. Fredericks",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "with Gods Blessing",
+    "year": 2020
+  },
+  {
+    "num": 143,
+    "author": "D. Ballek",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "a Kalmia Latifolia",
+    "year": 2020
+  },
+  {
+    "num": 144,
+    "author": "Z. Dendas",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": "between Oar and Champlin's",
+    "year": 2020
+  },
+  {
+    "num": 146,
+    "author": "J. Napierkowski",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 15,
+    "author": "S. McEnaney",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 151,
+    "author": "J. Rothery",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 152,
+    "author": "S. King",
+    "area": "New Harbor",
+    "location": "Trims Pond",
+    "lat": 41.1773363204829,
+    "lng": -71.5753744810815,
+    "description": "behind stone wall",
+    "year": 2020
+  },
+  {
+    "num": 154,
+    "author": "M. Lord",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 155,
+    "author": "D. Nigrelli",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 157,
+    "author": "H. Shea",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": "access road",
+    "year": 2020
+  },
+  {
+    "num": 158,
+    "author": "D. Riccio",
+    "area": "New Harbor",
+    "location": "Island Cemetery",
+    "lat": 41.1793284664681,
+    "lng": -71.5795297168528,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 158,
+    "author": "S. McGratty",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2128314700926,
+    "lng": -71.5547702093259,
+    "description": "on beach under a rock",
+    "year": 2020
+  },
+  {
+    "num": 159,
+    "author": "G. Sutherland",
+    "area": "New Harbor",
+    "location": "Ball O’Brien Park",
+    "lat": 41.1815404137124,
+    "lng": -71.5807749124551,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 16,
+    "author": "K. OKeefe",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 160,
+    "author": "J. Panero",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 162,
+    "author": "R. Smolenack",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 164,
+    "author": "T. Nigrelli",
+    "area": "Corn Neck",
+    "location": "Attwood Property",
+    "lat": 41.2180151744925,
+    "lng": -71.5649489069365,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 165,
+    "author": "L. Webber",
+    "area": "Corn Neck",
+    "location": "Trustrum Dodge Memorial",
+    "lat": 41.1773855893755,
+    "lng": -71.5634536162109,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 167,
+    "author": "C. Holbrook",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 168,
+    "author": "A. 2021 Graduate!!",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": "in grass to the left once on beach",
+    "year": 2020
+  },
+  {
+    "num": 169,
+    "author": "N. Matsen",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.1694119850825,
+    "lng": -71.5845799747995,
+    "description": "wall entrance",
+    "year": 2020
+  },
+  {
+    "num": 17,
+    "author": "B. Toal",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 170,
+    "author": "G. Putnam",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 171,
+    "author": "R. Grant",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 172,
+    "author": "E. Petty",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 173,
+    "author": "A. Pucci",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 174,
+    "author": "T. McKeon",
+    "area": "New Harbor",
+    "location": "Beach Ave. Bridge",
+    "lat": 41.1789151141118,
+    "lng": -71.5662305247319,
+    "description": "in water",
+    "year": 2020
+  },
+  {
+    "num": 175,
+    "author": "P. Mott",
+    "area": "Corn Neck",
+    "location": "Sachem Pond",
+    "lat": 41.2246248073493,
+    "lng": -71.5670041658809,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 176,
+    "author": "T. Servedio",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": "on path",
+    "year": 2020
+  },
+  {
+    "num": 177,
+    "author": "M. Keefe",
+    "area": "Corn Neck",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 178,
+    "author": "B. Lyons",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 179,
+    "author": "A. Nevers",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 183,
+    "author": "T. Dorchies",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 185,
+    "author": "W. Formica",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 186,
+    "author": "E. Vance",
+    "area": "Corn Neck",
+    "location": "Baby Beach",
+    "lat": 41.1791548461843,
+    "lng": -71.5652258146036,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 187,
+    "author": "N. LoBello",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 188,
+    "author": "S. DiMare",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 189,
+    "author": "R. Cobb",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 19,
+    "author": "P. Goulding",
+    "area": "Corn Neck",
+    "location": "Beach (between Gracies and Dorries Cove)",
+    "lat": 41.1795101499119,
+    "lng": -71.606274341351,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 19,
+    "author": "R. McKeon",
+    "area": "Central",
+    "location": "Old Mill Road",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 191,
+    "author": "J. Sordillo",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 192,
+    "author": "B. Sypit",
+    "area": "Corn Neck",
+    "location": "Logwood Cove",
+    "lat": 41.2167506358778,
+    "lng": -71.5765519847114,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 193,
+    "author": "D. Ciok",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 195,
+    "author": "S. Bollinger",
+    "area": "Corn Neck",
+    "location": "Labyrinth",
+    "lat": 41.2172436902458,
+    "lng": -71.5657985249406,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 196,
+    "author": "A. Carley",
+    "area": "Corn Neck",
+    "location": "Sandy Point",
+    "lat": 41.2311790441238,
+    "lng": -71.5775390376532,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 20,
+    "author": "J. Pydych",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 20,
+    "author": "S. Laprade",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "rock wall",
+    "year": 2020
+  },
+  {
+    "num": 201,
+    "author": "K. Obrien",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 202,
+    "author": "L. Russo",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 202,
+    "author": "R. Wetherill",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 203,
+    "author": "N. Roberts",
+    "area": "Southeast",
+    "location": "Pilot Hill Road",
+    "lat": 41.1554924729371,
+    "lng": -71.5591541028125,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 206,
+    "author": "S. Holbrook",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 209,
+    "author": "M. Jeane",
+    "area": "Central",
+    "location": "Airport diner",
+    "lat": 41.1696253261755,
+    "lng": -71.5794368278459,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 210,
+    "author": "C. James",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.1716106004157,
+    "lng": -71.5552143810593,
+    "description": "in a pile of bricks",
+    "year": 2020
+  },
+  {
+    "num": 212,
+    "author": "K. Pietraszka",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 213,
+    "author": "K. Morley",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 214,
+    "author": "C. Pinzi",
+    "area": "New Harbor",
+    "location": "Beach Ave. Bridge",
+    "lat": 41.1788479914148,
+    "lng": -71.5663201558777,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 215,
+    "author": "A. Pepin",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in cannon",
+    "year": 2020
+  },
+  {
+    "num": 216,
+    "author": "F. Lapham",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 217,
+    "author": "S. Walshaw",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 22,
+    "author": "M. Orszulak",
+    "area": "West Side",
+    "location": "Harrison Loop",
+    "lat": 41.1801014303043,
+    "lng": -71.5856990218441,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 220,
+    "author": "J. Ashley",
+    "area": "New Harbor",
+    "location": "Hygeia House",
+    "lat": 41.177900962298,
+    "lng": -71.5707511578211,
+    "description": "driveway",
+    "year": 2020
+  },
+  {
+    "num": 222,
+    "author": "W. Wynne",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 225,
+    "author": "L. Larson",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 229,
+    "author": "K. Franceschelli",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 23,
+    "author": "K. Goodwin",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 232,
+    "author": "S. Colonnelli",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 233,
+    "author": "M. Lyons",
+    "area": "Old Harbor",
+    "location": "Garden in Old Harbor",
+    "lat": 41.1733989757525,
+    "lng": -71.5584094362816,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 236,
+    "author": "M. Fisher",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 238,
+    "author": "A. Maruska",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "in a tree above some soilded boxers",
+    "year": 2020
+  },
+  {
+    "num": 24,
+    "author": "M. Hyland",
+    "area": "Central",
+    "location": "Greenway next to Beacon Hollow Farm off Beacon Hill Road",
+    "lat": 41.1746172936343,
+    "lng": -71.5876670588649,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 240,
+    "author": "D. Hylind",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2128314700926,
+    "lng": -71.5547702093259,
+    "description": "at beach under the rock",
+    "year": 2020
+  },
+  {
+    "num": 242,
+    "author": "A. Knott",
+    "area": "Corn Neck",
+    "location": "Fred Benson Town Beach",
+    "lat": 41.1828554486701,
+    "lng": -71.5663535892992,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 244,
+    "author": "L. Bauer",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a pine tree",
+    "year": 2020
+  },
+  {
+    "num": 245,
+    "author": "M. Amie Shantelle",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 246,
+    "author": "A. Cerbu",
+    "area": "Old Harbor",
+    "location": "Lobster Pot Christmas Tree",
+    "lat": 41.1737193045773,
+    "lng": -71.5586673560037,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 248,
+    "author": "J. Lubetkin",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 249,
+    "author": "R. Tanguay",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 25,
+    "author": "S. Tremblay",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 250,
+    "author": "C. Vadney",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 251,
+    "author": "D. Carlson",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 252,
+    "author": "R. McDonagh",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 255,
+    "author": "T. Gallo",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 256,
+    "author": "M. Alexander",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": "inside tree",
+    "year": 2020
+  },
+  {
+    "num": 257,
+    "author": "C. Sorlien",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 26,
+    "author": "M. Walsh",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 260,
+    "author": "D. Powers",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 261,
+    "author": "E. Tremblay",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 262,
+    "author": "C. Hediger",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2125377455954,
+    "lng": -71.5632557672791,
+    "description": "at Long Lot Pond",
+    "year": 2020
+  },
+  {
+    "num": 263,
+    "author": "Z. Sorlien",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 264,
+    "author": "D. DeMilia",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 265,
+    "author": "L. Price",
+    "area": "Central",
+    "location": "Old Mill Loop",
+    "lat": 41.1650005490654,
+    "lng": -71.5914863620454,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 266,
+    "author": "C. Donnelly",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 267,
+    "author": "E. Rizzo",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "in entryway",
+    "year": 2020
+  },
+  {
+    "num": 268,
+    "author": "M. Adams",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 270,
+    "author": "L. Blitzen",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 271,
+    "author": "J. Sorlien",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 272,
+    "author": "B. LaCasse",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 273,
+    "author": "G. Doyon",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 274,
+    "author": "H. Romanelli",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 276,
+    "author": "A. Kronk",
+    "area": "Corn Neck",
+    "location": "Fred Benson Town Beach",
+    "lat": 41.1828554486701,
+    "lng": -71.5663535892992,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 277,
+    "author": "E. Rahn",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "in grass",
+    "year": 2020
+  },
+  {
+    "num": 279,
+    "author": "S. St. Martin",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 28,
+    "author": "J. Micalizzi IV",
+    "area": "West Side",
+    "location": "Cooneymus Cove",
+    "lat": 41.1642268004519,
+    "lng": -71.6108264686888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 280,
+    "author": "N. Hedgcorth",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 281,
+    "author": "S. Wilk",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 282,
+    "author": "K. Conners",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 283,
+    "author": "S. Douglas",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "in driftwood",
+    "year": 2020
+  },
+  {
+    "num": 284,
+    "author": "T. Serio",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 285,
+    "author": "L. DeMilia",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "rock wall",
+    "year": 2020
+  },
+  {
+    "num": 286,
+    "author": "P. Burns",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 288,
+    "author": "A. Rahn",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 289,
+    "author": "K. Kretschmer",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 29,
+    "author": "S. Hotchkiss",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.1716106004157,
+    "lng": -71.5552143810593,
+    "description": "community garden mosaic",
+    "year": 2020
+  },
+  {
+    "num": 291,
+    "author": "M. Miller",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": "in a stone wall",
+    "year": 2020
+  },
+  {
+    "num": 292,
+    "author": "J. Bland",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 294,
+    "author": "P. Salko",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 295,
+    "author": "L. N",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 295,
+    "author": "C. Benedict",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "behind a tree in leaves",
+    "year": 2020
+  },
+  {
+    "num": 296,
+    "author": "J. Swider",
+    "area": "West Side",
+    "location": "Beach (between Gracies and Dorries Cove)",
+    "lat": 41.1795101499119,
+    "lng": -71.606274341351,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 297,
+    "author": "Z. Romanoff",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "on beach",
+    "year": 2020
+  },
+  {
+    "num": 30,
+    "author": "V. Schwartz",
+    "area": "West Side",
+    "location": "Dodge Cemetery",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": "stone wall",
+    "year": 2020
+  },
+  {
+    "num": 300,
+    "author": "C. Daley",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "on the beach inside a log",
+    "year": 2020
+  },
+  {
+    "num": 301,
+    "author": "G. D",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 302,
+    "author": "D. NOETZEL",
+    "area": "Corn Neck",
+    "location": "Baby Beach",
+    "lat": 41.1791613198856,
+    "lng": -71.5652464598527,
+    "description": "path",
+    "year": 2020
+  },
+  {
+    "num": 302,
+    "author": "M. Otieno",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 304,
+    "author": "L. Govalet",
+    "area": "Southwest",
+    "location": "Between Winn Dodge and Lewis Dickens Preserve",
+    "lat": 41.1560856645211,
+    "lng": -71.605313122916,
+    "description": "in a tree stump",
+    "year": 2020
+  },
+  {
+    "num": 305,
+    "author": "L. Kempenaar",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 306,
+    "author": "K. O'Riordan",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 307,
+    "author": "S. Tracy",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 308,
+    "author": "J. Temple",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": "under a tree in the brush",
+    "year": 2020
+  },
+  {
+    "num": 309,
+    "author": "M. Wheatley",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 31,
+    "author": "R. Birk",
+    "area": "Central",
+    "location": "Middle Earth",
+    "lat": 41.1746148328162,
+    "lng": -71.584837287983,
+    "description": "inside a pile of rocks",
+    "year": 2020
+  },
+  {
+    "num": 310,
+    "author": "C. Blandina",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 314,
+    "author": "J. Macomb",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 315,
+    "author": "C. Fisher",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 318,
+    "author": "J. Mattiucci",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 319,
+    "author": "R. M",
+    "area": "Old Harbor",
+    "location": "Red Bird Parking Lot",
+    "lat": 41.1736352215201,
+    "lng": -71.5606078601214,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 32,
+    "author": "W. Briand",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 320,
+    "author": "J. Laney",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 321,
+    "author": "R. Darling",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 322,
+    "author": "G. Tully",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": "next to a rock",
+    "year": 2020
+  },
+  {
+    "num": 324,
+    "author": "E. McLaughlin",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 325,
+    "author": "J. Twombly",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 326,
+    "author": "S. Heineman",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 329,
+    "author": "A. Brown",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 33,
+    "author": "J. Katz",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 330,
+    "author": "L. Stewart",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 332,
+    "author": "L. Mcguire",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": "behind a rock",
+    "year": 2020
+  },
+  {
+    "num": 334,
+    "author": "L. Gibson",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 335,
+    "author": "C. Gress",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": "between some rocks",
+    "year": 2020
+  },
+  {
+    "num": 337,
+    "author": "E. Andy",
+    "area": "West Side",
+    "location": "Cooneymus Cove",
+    "lat": 41.1642268004519,
+    "lng": -71.6108264686888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 337,
+    "author": "J. Auth",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 338,
+    "author": "K. Hall",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 339,
+    "author": "A. Grant",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 340,
+    "author": "A. Katter",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 340,
+    "author": "K. McMahon",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 342,
+    "author": "L. Mullowney",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 343,
+    "author": "S. Spatafore",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 343,
+    "author": "J. Bobowicz",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": "near crescent beach cottages",
+    "year": 2020
+  },
+  {
+    "num": 344,
+    "author": "N. Weldon/Guimond",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 345,
+    "author": "J. Bobowicz",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 347,
+    "author": "E. Donofrio",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 348,
+    "author": "P. Miller",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 348,
+    "author": "P. Murray",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 349,
+    "author": "J. Bobowicz",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 349,
+    "author": "N. Dorfman",
+    "area": "New Harbor",
+    "location": "Greenway Trail Great Salt Pond",
+    "lat": 41.1819972789657,
+    "lng": -71.5812305981362,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 350,
+    "author": "K. O’Connor",
+    "area": "Old Harbor",
+    "location": "Gables Inn",
+    "lat": 41.1736612641959,
+    "lng": -71.56119375346,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 352,
+    "author": "M. Burrows",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 352,
+    "author": "J. Bobowicz",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 353,
+    "author": "M. Dymes",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 354,
+    "author": "F. Swift",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": "near crescent beach cottages",
+    "year": 2020
+  },
+  {
+    "num": 357,
+    "author": "A. Ball",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 358,
+    "author": "G. Bobowicz",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": "near crescent beach cottages",
+    "year": 2020
+  },
+  {
+    "num": 359,
+    "author": "P. Cooper",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 360,
+    "author": "E. Piotrowski",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 361,
+    "author": "E. Robateau",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": "entrance walkway",
+    "year": 2020
+  },
+  {
+    "num": 362,
+    "author": "O. Bobowicz",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": "near crescent beach cottages",
+    "year": 2020
+  },
+  {
+    "num": 365,
+    "author": "S. Santostefano",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 372,
+    "author": "S. Finn",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 373,
+    "author": "R. MacGill",
+    "area": "West Side",
+    "location": "Near Rustic Rides",
+    "lat": 41.1628450266173,
+    "lng": -71.6021918749884,
+    "description": "under a canon",
+    "year": 2020
+  },
+  {
+    "num": 375,
+    "author": "S. Dooley",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 376,
+    "author": "T. Dooley",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2091212696423,
+    "lng": -71.5629635889018,
+    "description": "at entrance trail marker",
+    "year": 2020
+  },
+  {
+    "num": 379,
+    "author": "J. Dobie",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": "under a log",
+    "year": 2020
+  },
+  {
+    "num": 38,
+    "author": "A. White",
+    "area": "West Side",
+    "location": "Stevens Cove",
+    "lat": 41.1684609305654,
+    "lng": -71.6104577750029,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 38,
+    "author": "R. Lennon",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": "on beach",
+    "year": 2020
+  },
+  {
+    "num": 381,
+    "author": "J. Dietz",
+    "area": "Southwest",
+    "location": "Black Rock Beach",
+    "lat": 41.1482336711839,
+    "lng": -71.5881120555036,
+    "description": "on path down to beach",
+    "year": 2020
+  },
+  {
+    "num": 383,
+    "author": "A. Gill",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 385,
+    "author": "C. Mullen",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 386,
+    "author": "K. O’Brien",
+    "area": "Old Harbor",
+    "location": "Ballard’s beach",
+    "lat": 41.1727875755403,
+    "lng": -71.5543465995905,
+    "description": "entangled in fishermen’s nets and rope",
+    "year": 2020
+  },
+  {
+    "num": 387,
+    "author": "M. Valenti",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 39,
+    "author": "M. Taylor",
+    "area": "West Side",
+    "location": "Dodge Cemetery",
+    "lat": 41.1664535854349,
+    "lng": -71.5964831630973,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 390,
+    "author": "C. Whitney",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 391,
+    "author": "A. Sarenas",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 392,
+    "author": "J. Lawrence",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 393,
+    "author": "M. ACCHIONE",
+    "area": "West Side",
+    "location": "Marsh Hawk Hollow",
+    "lat": 41.1730735661671,
+    "lng": -71.5876816876773,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 393,
+    "author": "C. Albertson",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "rock wall",
+    "year": 2020
+  },
+  {
+    "num": 395,
+    "author": "K. O’Connor",
+    "area": "Corn Neck",
+    "location": "Labyrinth",
+    "lat": 41.2172436902458,
+    "lng": -71.5657985249406,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 396,
+    "author": "C. Forsyth",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 397,
+    "author": "K. Magnan",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 398,
+    "author": "S. Keelips",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 399,
+    "author": "J. Pappas",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": "under a rock",
+    "year": 2020
+  },
+  {
+    "num": 4,
+    "author": "A. Ladd",
+    "area": "Old Harbor",
+    "location": "Lobster Pot Christmas Tree",
+    "lat": 41.1737193045773,
+    "lng": -71.5586673560037,
+    "description": "‘Rona Orb",
+    "year": 2020
+  },
+  {
+    "num": 40,
+    "author": "E. Fluck",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 400,
+    "author": "A. McCarrick",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": "turn left on hill",
+    "year": 2020
+  },
+  {
+    "num": 401,
+    "author": "J. Feitelberg",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.1694119850825,
+    "lng": -71.5845799747995,
+    "description": "sign",
+    "year": 2020
+  },
+  {
+    "num": 402,
+    "author": "D. Iannucci",
+    "area": "West Side",
+    "location": "Marsh Hawk Hollow",
+    "lat": 41.1730735661671,
+    "lng": -71.5876816876773,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 403,
+    "author": "H. Robinson IV",
+    "area": "Southwest",
+    "location": "Jones Trail",
+    "lat": 41.1544922979477,
+    "lng": -71.5894488205107,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 405,
+    "author": "K. Minty",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 408,
+    "author": "C. McDermott",
+    "area": "Southeast",
+    "location": "Pilot Hill Road",
+    "lat": 41.1554924729371,
+    "lng": -71.5591541028125,
+    "description": "pond",
+    "year": 2020
+  },
+  {
+    "num": 409,
+    "author": "J. Currier",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 41,
+    "author": "B. Dunn",
+    "area": "Central",
+    "location": "Meadow Hill Greenway",
+    "lat": 41.1724138537825,
+    "lng": -71.5680875135574,
+    "description": "in apple tree",
+    "year": 2020
+  },
+  {
+    "num": 410,
+    "author": "A. Knous",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": "bench near Old Mill marker",
+    "year": 2020
+  },
+  {
+    "num": 411,
+    "author": "J. Kemp",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": "stone wall",
+    "year": 2020
+  },
+  {
+    "num": 412,
+    "author": "L. Connolly",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 415,
+    "author": "J. Blanco",
+    "area": "West Side",
+    "location": "Dodge Cemetery",
+    "lat": 41.1664535854349,
+    "lng": -71.5964831630973,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 417,
+    "author": "R. Miller",
+    "area": "Southwest",
+    "location": "Southwest Point Beach",
+    "lat": 41.1602709237173,
+    "lng": -71.6124962538661,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 420,
+    "author": "L. Colonnelli",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2128314700926,
+    "lng": -71.5547702093259,
+    "description": "at beach",
+    "year": 2020
+  },
+  {
+    "num": 422,
+    "author": "M. Werner",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": "off of field",
+    "year": 2020
+  },
+  {
+    "num": 424,
+    "author": "J. Simat Ortiz",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": "in a rock just off the trail",
+    "year": 2020
+  },
+  {
+    "num": 425,
+    "author": "L. Hentschel",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 426,
+    "author": "M. Colandrea",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": "behind a rock in crevice",
+    "year": 2020
+  },
+  {
+    "num": 427,
+    "author": "J. Sawyer",
+    "area": "West Side",
+    "location": "New Trail",
+    "lat": 41.1669385921648,
+    "lng": -71.5937821756956,
+    "description": "off of Carey Lot",
+    "year": 2020
+  },
+  {
+    "num": 428,
+    "author": "Y. Baker",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "rock wall",
+    "year": 2020
+  },
+  {
+    "num": 431,
+    "author": "M. Szwed",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 432,
+    "author": "D. Choiniere",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 437,
+    "author": "T. Penczak",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 438,
+    "author": "L. Hentschel",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": "under a log",
+    "year": 2020
+  },
+  {
+    "num": 44,
+    "author": "G. Fournier",
+    "area": "West Side",
+    "location": "Near Rustic Rides",
+    "lat": 41.1628450266173,
+    "lng": -71.6021918749884,
+    "description": "tree",
+    "year": 2020
+  },
+  {
+    "num": 440,
+    "author": "C. Manglass",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 441,
+    "author": "B. Fiore",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 444,
+    "author": "S. Daley",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": "on beach",
+    "year": 2020
+  },
+  {
+    "num": 445,
+    "author": "G. Pettitt",
+    "area": "Corn Neck",
+    "location": "Long Lot Trail",
+    "lat": 41.2130822712121,
+    "lng": -71.5669397502096,
+    "description": "in a stone wall",
+    "year": 2020
+  },
+  {
+    "num": 450,
+    "author": "D. Pettitt",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 452,
+    "author": "W. Price",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 454,
+    "author": "H. Hottel",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 456,
+    "author": "S. Boucher",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 458,
+    "author": "L. Nelson",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 458,
+    "author": "G. Nelson",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": "under logs",
+    "year": 2020
+  },
+  {
+    "num": 46,
+    "author": "P. Merriam",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 460,
+    "author": "J. Madera",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 467,
+    "author": "B. Kline",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": "in log on beach",
+    "year": 2020
+  },
+  {
+    "num": 468,
+    "author": "N. Nardini",
+    "area": "Corn Neck",
+    "location": "Sandy Point",
+    "lat": 41.2300472852827,
+    "lng": -71.5771321870955,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 469,
+    "author": "V. Hardy",
+    "area": "Corn Neck",
+    "location": "Sandy Point",
+    "lat": 41.2300472852827,
+    "lng": -71.5771321870955,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 476,
+    "author": "L. Nardini",
+    "area": "Corn Neck",
+    "location": "Sandy Point",
+    "lat": 41.2300472852827,
+    "lng": -71.5771321870955,
+    "description": "under driftwood",
+    "year": 2020
+  },
+  {
+    "num": 477,
+    "author": "C. Vieau",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 48,
+    "author": "F. McGuire",
+    "area": "Central",
+    "location": "Scotch Beach",
+    "lat": 41.1896756698066,
+    "lng": -71.5668826917773,
+    "description": "in my bike helmet",
+    "year": 2020
+  },
+  {
+    "num": 480,
+    "author": "M. Vitacco",
+    "area": "Corn Neck",
+    "location": "Fred Benson Town Beach",
+    "lat": 41.1828554486701,
+    "lng": -71.5663535892992,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 481,
+    "author": "J. Trocola",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 482,
+    "author": "C. Scarcello",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1478153588598,
+    "lng": -71.5900745319511,
+    "description": "bluffs lookout",
+    "year": 2020
+  },
+  {
+    "num": 484,
+    "author": "M. Maruska",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 485,
+    "author": "S. Klimstra",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": "end of trail",
+    "year": 2020
+  },
+  {
+    "num": 487,
+    "author": "S. Bell",
+    "area": "West Side",
+    "location": "Cooneymus Cove",
+    "lat": 41.1642268004519,
+    "lng": -71.6108264686888,
+    "description": "thru turns stile",
+    "year": 2020
+  },
+  {
+    "num": 488,
+    "author": "E. Barrett",
+    "area": "Central",
+    "location": "Middle Earth",
+    "lat": 41.1746148328162,
+    "lng": -71.584837287983,
+    "description": "rock wall",
+    "year": 2020
+  },
+  {
+    "num": 489,
+    "author": "H. Hespeler",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 490,
+    "author": "G. Schuyler",
+    "area": "Corn Neck",
+    "location": "Beane Point",
+    "lat": 41.195717507328,
+    "lng": -71.5873460546793,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 490,
+    "author": "C. Manglass",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 494,
+    "author": "J. Treseder",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 495,
+    "author": "B. Goulding",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 496,
+    "author": "M. Gurello",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 497,
+    "author": "L. Nigrelli",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 499,
+    "author": "E. Brooks",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 504,
+    "author": "J. Mahoney",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": "in a tree trunk",
+    "year": 2020
+  },
+  {
+    "num": 506,
+    "author": "S. Ferraro",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 509,
+    "author": "C. Chodosh",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 51,
+    "author": "S. Patterson",
+    "area": "West Side",
+    "location": "Martin Lot Trail",
+    "lat": 41.1654255251954,
+    "lng": -71.6001220237553,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 510,
+    "author": "D. Chiavaroli",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": "other side of wall pumpkin float",
+    "year": 2020
+  },
+  {
+    "num": 512,
+    "author": "D. Rousseau",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": "pumpkin",
+    "year": 2020
+  },
+  {
+    "num": 513,
+    "author": "M. McClellan Whitten",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 513,
+    "author": "S. Disotell",
+    "area": "Corn Neck",
+    "location": "Beach (between Scotch and Mansion Beach)",
+    "lat": 41.1966625748641,
+    "lng": -71.5641085468792,
+    "description": "buried in sand (pumpkin)",
+    "year": 2020
+  },
+  {
+    "num": 515,
+    "author": "K. SilverLining",
+    "area": "Central",
+    "location": "Indian Cemetery",
+    "lat": 41.1637034425423,
+    "lng": -71.5769846641533,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 516,
+    "author": "A. Kersteter",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 517,
+    "author": "E. Michell",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 519,
+    "author": "L. Pepper",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 520,
+    "author": "G. Shea",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 522,
+    "author": "V. Johnston",
+    "area": "Corn Neck",
+    "location": "Attwood Property",
+    "lat": 41.2180151744925,
+    "lng": -71.5649489069365,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 523,
+    "author": "B. Beetle",
+    "area": "Central",
+    "location": "Mazzur Trail",
+    "lat": 41.1648023867541,
+    "lng": -71.5836854085462,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 524,
+    "author": "S. Janitschke",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": "on beach",
+    "year": 2020
+  },
+  {
+    "num": 527,
+    "author": "J. Kneath",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 528,
+    "author": "A. Marcucci",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 529,
+    "author": "C. Riccio",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 529,
+    "author": "A. Swienton",
+    "area": "Corn Neck",
+    "location": "Andy's Way",
+    "lat": 41.199989436188,
+    "lng": -71.5737953185137,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 53,
+    "author": "H. Bet",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 531,
+    "author": "K. Dickson",
+    "area": "Corn Neck",
+    "location": "Clay Head Trail",
+    "lat": 41.2119392040822,
+    "lng": -71.5562308948794,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 532,
+    "author": "M. Mathew",
+    "area": "Corn Neck",
+    "location": "Dinghy Beach",
+    "lat": 41.1889348006204,
+    "lng": -71.5698874278622,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 534,
+    "author": "S. Mahoney",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in cannon",
+    "year": 2020
+  },
+  {
+    "num": 536,
+    "author": "M. Caruana",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 537,
+    "author": "M. Ariel",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 54,
+    "author": "J. Hall",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": "in a tree trunk",
+    "year": 2020
+  },
+  {
+    "num": 540,
+    "author": "J. Plotzke",
+    "area": "West Side",
+    "location": "Harrison Loop",
+    "lat": 41.1801014303043,
+    "lng": -71.5856990218441,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 541,
+    "author": "T. Ariel",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 542,
+    "author": "W. Jessop",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 545,
+    "author": "B. Gallucci",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 551,
+    "author": "L. Gordon",
+    "area": "West Side",
+    "location": "Coast Guard Beach",
+    "lat": 41.1951581446755,
+    "lng": -71.589121769088,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 552,
+    "author": "S. Read",
+    "area": "New Harbor",
+    "location": "Rat Island",
+    "lat": 41.1797243071385,
+    "lng": -71.5718670404779,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 555,
+    "author": "B. Freeman",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 556,
+    "author": "C. Heffernan",
+    "area": "Corn Neck",
+    "location": "The Maze",
+    "lat": 41.2118665644892,
+    "lng": -71.5596212070756,
+    "description": "in a hollowed tree limb",
+    "year": 2020
+  },
+  {
+    "num": 557,
+    "author": "W. Studley",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": "in a tire",
+    "year": 2020
+  },
+  {
+    "num": 558,
+    "author": "A. Smolenack",
+    "area": "Southwest",
+    "location": "Win Dodge Preserve",
+    "lat": 41.1585561373861,
+    "lng": -71.6024277326595,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 559,
+    "author": "A. Maruska",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 562,
+    "author": "V. Kikuchi",
+    "area": "Southwest",
+    "location": "Rodman's Hollow",
+    "lat": 41.1580682245263,
+    "lng": -71.5880209479956,
+    "description": "behind a trail sign",
+    "year": 2020
+  },
+  {
+    "num": 569,
+    "author": "C. McGuire",
+    "area": "Corn Neck",
+    "location": "West Beach",
+    "lat": 41.2096059821668,
+    "lng": -71.5775616680458,
+    "description": "in weeds",
+    "year": 2020
+  },
+  {
+    "num": 57,
+    "author": "B. Devolve",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 572,
+    "author": "K. Beck",
+    "area": "New Harbor",
+    "location": "Ocean Ave. Park (across from Power Company)",
+    "lat": 41.1763677889806,
+    "lng": -71.5706877730964,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 573,
+    "author": "P. Vigeant",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 574,
+    "author": "A. Henderson",
+    "area": "Corn Neck",
+    "location": "Hodge Family Wildlife Preserve",
+    "lat": 41.2137517434802,
+    "lng": -71.5669613598423,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 575,
+    "author": "J. Shepro",
+    "area": "Corn Neck",
+    "location": "Sandy Point",
+    "lat": 41.2300472852827,
+    "lng": -71.5771321870955,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 575,
+    "author": "K. DiScala",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 6,
+    "author": "C. Daddona",
+    "area": "Old Harbor",
+    "location": "Beach House",
+    "lat": 41.1743598292893,
+    "lng": -71.55945116441,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 60,
+    "author": "K. Hall",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 61,
+    "author": "D. Johnson",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 62,
+    "author": "L. Poot",
+    "area": "New Harbor",
+    "location": "O’Brien Park",
+    "lat": 41.1814264333525,
+    "lng": -71.5805427919952,
+    "description": "Little Free Library Box",
+    "year": 2020
+  },
+  {
+    "num": 63,
+    "author": "W. Burns",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 65,
+    "author": "R. Johnson",
+    "area": "Old Harbor",
+    "location": "Ocean View Pavilion",
+    "lat": 41.1716106004157,
+    "lng": -71.5552143810593,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 66,
+    "author": "D. Kell",
+    "area": "West Side",
+    "location": "Harrison Loop",
+    "lat": 41.1801014303043,
+    "lng": -71.5856990218441,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 67,
+    "author": "C. Rahn",
+    "area": "New Harbor",
+    "location": "Legion Park",
+    "lat": 41.179621686589,
+    "lng": -71.5791963178629,
+    "description": "in a tree",
+    "year": 2020
+  },
+  {
+    "num": 68,
+    "author": "I. &amp; Diana",
+    "area": "Central",
+    "location": "Enchanted Forest",
+    "lat": 41.1686982995005,
+    "lng": -71.5869241207888,
+    "description": "in tree",
+    "year": 2020
+  },
+  {
+    "num": 69,
+    "author": "G. Valenti",
+    "area": "Central",
+    "location": "Fresh Pond Greenway",
+    "lat": 41.1616560610957,
+    "lng": -71.5822000801616,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 70,
+    "author": "H. Snow",
+    "area": "Corn Neck",
+    "location": "Logwood Cove",
+    "lat": 41.2167506358778,
+    "lng": -71.5765519847114,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 71,
+    "author": "J. Ashley",
+    "area": "New Harbor",
+    "location": "Hygeia House",
+    "lat": 41.177900962298,
+    "lng": -71.5707511578211,
+    "description": "yard",
+    "year": 2020
+  },
+  {
+    "num": 72,
+    "author": "S. Lafleur",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": "rock wall",
+    "year": 2020
+  },
+  {
+    "num": 73,
+    "author": "M. Lichack",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": "on the floor of the Jeep in parking lot",
+    "year": 2020
+  },
+  {
+    "num": 74,
+    "author": "C. Burns",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 75,
+    "author": "M. McConnell",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 77,
+    "author": "L. Bolduc",
+    "area": "Corn Neck",
+    "location": "Mansion Beach",
+    "lat": 41.2021967525074,
+    "lng": -71.5611865976963,
+    "description": "parking area",
+    "year": 2020
+  },
+  {
+    "num": 78,
+    "author": "B. Brett",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 8,
+    "author": "A. Dove",
+    "area": "Southwest",
+    "location": "Dickens Farm Trail",
+    "lat": 41.1539274828708,
+    "lng": -71.606815826606,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 80,
+    "author": "C. Sargent",
+    "area": "West Side",
+    "location": "Dories Cove",
+    "lat": 41.1732360175804,
+    "lng": -71.6078861066499,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 81,
+    "author": "T. Burns",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 82,
+    "author": "B. Conroy",
+    "area": "West Side",
+    "location": "Grace's Cove",
+    "lat": 41.1830411653684,
+    "lng": -71.6020591557015,
+    "description": "on beach",
+    "year": 2020
+  },
+  {
+    "num": 83,
+    "author": "J. Maselli",
+    "area": "New Harbor",
+    "location": "Beach Ave. Trail (Dunn Bridge Path)",
+    "lat": 41.1792129040488,
+    "lng": -71.5684527831926,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 85,
+    "author": "C. Corbett",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 86,
+    "author": "T. Family",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": "top of stairs",
+    "year": 2020
+  },
+  {
+    "num": 87,
+    "author": "L. Smith",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 88,
+    "author": "M. Fu",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 89,
+    "author": "S. Corbett",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "behind rock wall",
+    "year": 2020
+  },
+  {
+    "num": 9,
+    "author": "B. Cherveny",
+    "area": "Southeast",
+    "location": "Mohegan Bluffs Paynes Overlook",
+    "lat": 41.151963132685,
+    "lng": -71.5556381642978,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 90,
+    "author": "E. Jiunta",
+    "area": "Central",
+    "location": "Fresh Swamp Payne Farm Trail",
+    "lat": 41.1605938923017,
+    "lng": -71.5717287361708,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 91,
+    "author": "C. Dupre",
+    "area": "Old Harbor",
+    "location": "Rebeccas Restaurant",
+    "lat": 41.1725119851469,
+    "lng": -71.5580400014119,
+    "description": "in a shrub",
+    "year": 2020
+  },
+  {
+    "num": 92,
+    "author": "K. Murphy",
+    "area": "Central",
+    "location": "Nathan Mott Park",
+    "lat": 41.169020997366,
+    "lng": -71.5834061290923,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 93,
+    "author": "M. Nunes",
+    "area": "Central",
+    "location": "Old Mill Loop",
+    "lat": 41.1650005490654,
+    "lng": -71.5914863620454,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 94,
+    "author": "L. Doucet",
+    "area": "Corn Neck",
+    "location": "North Lighthouse",
+    "lat": 41.2279018127909,
+    "lng": -71.5757723027967,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 94,
+    "author": "M. Doyon",
+    "area": "Central",
+    "location": "Turnip Farm Trail",
+    "lat": 41.1666670544378,
+    "lng": -71.5922241657995,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 95,
+    "author": "M. Ungerer",
+    "area": "Central",
+    "location": "Old Mill Trail",
+    "lat": 41.1649601647958,
+    "lng": -71.5942973170829,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 96,
+    "author": "T. Fredericks",
+    "area": "West Side",
+    "location": "Loffredo Loop",
+    "lat": 41.1681689918248,
+    "lng": -71.5938150229298,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 97,
+    "author": "T. Stirling",
+    "area": "Corn Neck",
+    "location": "Solveiken Property",
+    "lat": 41.1765772349644,
+    "lng": -71.5637015074484,
+    "description": null,
+    "year": 2020
+  },
+  {
+    "num": 99,
+    "author": "D. Carpenter",
+    "area": "West Side",
+    "location": "Cooneymus Road To Old Mill Trail",
+    "lat": 41.1607787302545,
+    "lng": -71.5940313099229,
+    "description": "in tall grass",
+    "year": 2020
+  }
+]

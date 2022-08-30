@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Glass Float Project Viewer</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
+    <script src="https://kit.fontawesome.com/14b4c5f1c0.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" type="text/css" href="./style.css" />
+    <script src="./index.js"></script>
+  </head>
+
+  <body>
+    <div id="sidebar" class="options">
+      <h1>Year Filter</h1>
+      <input type="checkbox" id="year2022" value="2022" onchange="checkboxChange(this)"/>
+      <label for="year2022"><b>2022</b></label>
+      <input type="checkbox" id="year2021" value="2021" onchange="checkboxChange(this)"/>
+      <label for="year2021"><b>2021</b></label>
+      <input type="checkbox" id="year2020" value="2020" onchange="checkboxChange(this)"/>
+      <label for="year2020"><b>2020</b></label>
+      <hr />
+
+      <h1>Location Filter</h1>
+
+      <form>
+        <label> Select Location </label>
+        <br>
+        <select id="locationFormSelect" class="formSelect" onchange="addLocationFilter(this)">
+          <option value="---">---</option>
+        </select>
+      </form>
+
+      <hr><br>
+
+      <div id="locationFilterTable" class="filterTable">
+        <div id="locationContainer"></div>
+      </div>
+
+      <h1>Area Filter</h1>
+
+      <form>
+        <label> Select Area </label>
+        <br>
+        <select id="areaFormSelect" class="formSelect" onchange="addAreaFilter(this)">
+          <option value="---">---</option>
+        </select>
+      </form>
+
+      <hr><br>
+
+      <div id="areaFilterTable" class="filterTable">
+        <div id="areaContainer"></div>
+      </div>
+    </div>
+
+    <script src="./sidebar.js"></script>
+    <div id="sidebarOpener" class="optionsOpener" onclick="sidebar_click()">
+      <a id="icon">
+        <i class="fas fa-angle-left" style="font-size: 24px"></i>
+      </a>
+      <script src="sidebar.js"></script>
+    </div>
+
+    <div id="map"></div>
+    <script id="googleMapsAPI" async src='https://maps.googleapis.com/maps/api/js?key=AIzaSyC3dGpqcyrORgVKVhsvww36jFfR7foOGoE&callback=initMap' defer> </script>
+  </body>
+</html>
