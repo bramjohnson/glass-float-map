@@ -125,7 +125,11 @@ function createContentString(float) {
     '</span><span style="color: #8a8a8a"> - ' +
     float.year +
     "</span></h2></div>";
-  let body = '<div id="bodyContent">' + float.description + "</div>";
+  let body = '<div id="bodyContent">' 
+  if (float.description != null) {
+    body += float.description
+  }
+  body += "</div>";
   let year =
     '<div style="text-align: right">found by ' + float.author + "</div>";
   let end = "</div>";
